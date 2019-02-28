@@ -90,4 +90,19 @@ export default  [
       'I notice mistakes quickly',
     ],
   },
+  // { // this is an optional extra dimension to show the assessment working with more dimensions (NOTE: some of the current tests will fail if this is enabled, but it's a proof of concept)
+  //   name: 'ExtraDimension',
+  //   answers: [
+  //     'extraDimensionAnswerVariant1',
+  //     'extraDimensionAnswerVariant2',
+  //     'extraDimensionAnswerVariant3',
+  //     'extraDimensionAnswerVariant4',
+  //     'extraDimensionAnswerVariant5',
+  //     'extraDimensionAnswerVariant6',
+  //     'extraDimensionAnswerVariant7',
+  //     'extraDimensionAnswerVariant8',
+  //     'extraDimensionAnswerVariant9',
+  //     'extraDimensionAnswerVariant10',
+  //   ],
+  // },
 ];
